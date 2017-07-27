@@ -8,6 +8,7 @@
     <owners>Rob Reynolds</owners>
     <licenseUrl>https://www.hmailserver.com/documentation/v5.6/?page=information_copyright</licenseUrl>
     <projectUrl>http://www.hmailserver.com</projectUrl>
+	<packageSourceUrl>https://github.com/stairsdba/chocolatey-hmail</packageSourceUrl>
 	<iconUrl>https://www.hmailserver.com/images/top_picture.png</iconUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>hMailServer is a free e-mail server for Microsoft Windows. It's used by Internet service providers, companies, governments, schools and enthusiasts in all parts of the world. 
