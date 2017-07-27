@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>hmail</id>
+    <version>5.6.6.2383</version>
+    <title>hMail</title>
+    <authors>hMailServer Contributors</authors>
+    <owners>Rob Reynolds</owners>
+    <licenseUrl>https://www.hmailserver.com/documentation/v5.6/?page=information_copyright</licenseUrl>
+    <projectUrl>http://www.hmailserver.com</projectUrl>
+	<iconUrl>https://www.hmailserver.com/images/top_picture.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>hMailServer is a free e-mail server for Microsoft Windows. It's used by Internet service providers, companies, governments, schools and enthusiasts in all parts of the world. 
+
+It supports the common e-mail protocols (IMAP, SMTP and POP3) and can easily be integrated with many existing web mail systems. It has flexible score-based spam protection and can attach to your virus scanner to scan all incoming and outgoing email.</description>
+    <summary>hMailServer is a free e-mail server for Microsoft Windows</summary>
+    <tags>hmail mail server smtp pop3 admin</tags>
+	<dependencies>
+      <dependency id="dotnet3.5" version ="3.5.20160716"/>
+    </dependencies>
+  </metadata>
+</package>

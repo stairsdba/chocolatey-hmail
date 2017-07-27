@@ -1,0 +1,1 @@
+﻿Install-ChocolateyPackage 'hmailserver' 'exe' '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-' 'https://www.hmailserver.com/files/hMailServer-5.6.6-B2383.exe'  -validExitCodes @(0)
